@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class billboard {
+import java.util.*;
+public class billboard {
+    public static void main(String args[]){
+
+    }
 }
